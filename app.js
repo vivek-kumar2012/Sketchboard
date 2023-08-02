@@ -5,7 +5,7 @@ const app = express(); //Initialized and server ready
 
 app.use(express.static("public"));
 
-let port = process.env.PORT || 5000;
+let port = process.env.PORT || 5000; // process.env.PORT helps us run app on cloud port because on cloud we can get any port not necessary it going to be 5000.
 let server = app.listen(port, () => {
     console.log("Listening to port" + port);
 })
