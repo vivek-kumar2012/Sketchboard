@@ -6,5 +6,5 @@ Real-time 2D graphics drawing app
 - Application allow users to express their creativity by creating digital artwork in a dynamic
   and interactive environment.
 
-FrontEnd Tech stack :- HTML, CSS, JavaSsript
-Backend Tech Stack :- NOde.Js, Express.Js, socket.IO, Canvas API
+- FrontEnd Tech stack :- HTML, CSS, JavaSsript
+- Backend Tech Stack :- NOde.Js, Express.Js, socket.IO, Canvas API
